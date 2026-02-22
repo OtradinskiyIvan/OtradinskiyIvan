@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# Software Engineer | Graduating in 2028
+Backend developer at SolidGear
+Stack: SQL, Python (FastAPI, SQLAlchemy)
+Passionate about building efficient backend systems and learning new technologies.
+
 <!--
 **OtradinskiyIvan/OtradinskiyIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
