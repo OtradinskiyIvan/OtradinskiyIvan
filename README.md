@@ -1,3 +1,7 @@
+Based on the resume, here are the skills I've extracted and added to the README:
+
+---
+
 # 🚀 Software Engineer | Graduating 2028
 
 Backend developer at **SolidGear**  
@@ -22,6 +26,34 @@ Backend developer at **SolidGear**
 
 </div>
 
+<div align="center">
+  
+### **Languages & Tools**
+  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/ci-cd)
+
+</div>
+
+<div align="center">
+  
+### **Databases**
+  
+[![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Transact-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -43,6 +75,24 @@ I also enjoy participating in **hackathons** and building backend solutions for 
 - Working with **databases** (PostgreSQL, SQLite, SQL Server) via ORMs and raw SQL  
 - Writing **tests** and automating workflows (pytest, GitHub Actions)  
 - Learning how teams actually build and maintain software in production
+
+---
+
+## 🛠️ Skills from Resume
+
+**Core:** Python, REST API, Algorithms & Data Structures, API Development
+
+**Frameworks & Libraries:** FastAPI, SQLAlchemy, Pydantic, Requests, PyCharm
+
+**DevOps & Tools:** Docker, CI/CD, GitHub Actions, Bash, Linux, Nginx
+
+**Testing:** Unit Testing, Pytest, Automated Testing
+
+**Databases:** PostgreSQL, MS SQL Server (Transact-SQL), SQLite
+
+**Frontend:** HTML, CSS, JavaScript, React
+
+**Other:** AsyncPG, CORS, JWT Token Rotation, Microservices Architecture, Reverse Proxy, Feature-Branch Workflow, Git
 
 ---
 
