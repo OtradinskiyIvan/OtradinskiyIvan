@@ -4,7 +4,7 @@ Based on the resume, here are the skills I've extracted and added to the README:
 
 # 🚀 Software Engineer | Graduating 2028
 
-Backend developer at **SolidGear**  
+Backend developer at **SolidGear**  and **Misistube**
 
 > Focused on building maintainable, production-ready systems.  
 > Actively seeking commercial experience and professional growth.
