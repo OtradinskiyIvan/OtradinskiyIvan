@@ -54,7 +54,7 @@ Backend developer at **SolidGear**  and **Misistube**
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with a strong foundation in backend development and a passion for clean architecture.  
+I'm a **Software Engineer** with a rich foundation in backend development and a passion for clean architecture.  
 My main focus is on writing scalable, readable code and understanding how systems work **end-to-end**.
 
 🔹 **Currently exploring:** multi‑layer architecture (Presentation / Service / Infrastructure), async patterns, and safe configuration management.  
